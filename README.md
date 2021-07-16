@@ -1,1 +1,2 @@
-# LearningGit
+# LearningGit. 
+testing field of Git
